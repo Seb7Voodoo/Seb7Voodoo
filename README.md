@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seb7Voodoo
+- 👋 Hi, I’m Sebastian Venter
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning JavaScript/ES6
 - 💞️ I’m looking to collaborate on ...
